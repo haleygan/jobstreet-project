@@ -5,5 +5,3 @@
 3. Build a datawarehouse in Bigquery
 4. Use Tableau for Data Visualization
 5. Make a webpage to demonstrate work
-
-TEST
